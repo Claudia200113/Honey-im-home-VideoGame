@@ -1,4 +1,4 @@
-#Honey I'm Home!
+# Honey I'm Home!
 
 [Published game](https://abelst.itch.io/honey-im-home)
 
@@ -8,7 +8,7 @@ For this RPG horror survival game, I worked with a team of four, each of us resp
 
 Each person of the team was responsible of a department and my role focused on programming.​ 
 
-##Tasks:
+## Tasks:
 I scripted the entire game, including player movement, enemy AI, gameplay mechanics, UI, objectives menu, camera movement, and audio. As the game was developed in Unity, the language used was entirely C# using Visual Studio.
 
 The project was developed within a month, so several features were implemented with a focus on quick delivery rather than optimization.
