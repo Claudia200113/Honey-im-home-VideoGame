@@ -19,13 +19,13 @@ My primary role focused on **programming**. The project was developed using **Un
 
 ## Game Features
 - Player movement and controls  
-- Enemy AI behavior  
+- Enemy AI behavior using a state machine
 - Core gameplay mechanics  
 - UI implementation and objectives menu  
 - Camera movement  
 - Generic audio script
 - Enemy Animations
-- Player has a type of weapon   
+- Player has a proximity weapon   
 
 ## Development Requirements
 The game was developed within one month, prioritizing functionality and delivery speed over optimization.
